@@ -1,0 +1,6 @@
+[submodule "node-api"]
+	path = node-api
+	url = https://github.com/pemtajo/node-api
+[submodule "python-api"]
+	path = python-api
+	url = https://github.com/pemtajo/python-api
